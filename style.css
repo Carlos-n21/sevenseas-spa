@@ -1,0 +1,17 @@
+
+.navbar-brand span {
+    color: #3B2F2F;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.navbar-nav .nav-link.active {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #3B2F2F;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
